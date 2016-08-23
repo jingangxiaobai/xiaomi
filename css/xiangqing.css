@@ -1,0 +1,69 @@
+.inner{width: 1226px; margin:  0 auto;}
+.header{height: 100px; border-bottom: 1px solid #ff6700;}
+.logo{margin: 26px 44px 0 0;}
+.header .title h2{margin-top: 37px;}
+.loginBtn {margin-top: 42px;}
+
+.mainTop{height: 91px;}
+.mainTop ul{border-bottom: 1px solid #ccc;}
+.mainTop ul li{line-height: 91px; float: left;height: 91px;width: 152px;text-align: center; }
+.mainTop ul .current {border-bottom: 1px solid #000;}
+.mainCenter {height: 754px; padding-top: 48px; border-bottom: 1px solid #dfdfdf;  }
+.mainCenter  .centerLeft{width:575px; padding-left: 107px;}
+.mainCenter  .centerLeft img{width: 484px; height: 484px;}
+.mainCenter  .centerRight{ width: 544px;}
+.mainCenter  .centerRight .title{ height: 72px;line-height:72px;border-bottom: 1px solid #dfdfdf;}
+.mainCenter  .centerRight .title h2{ font:30px/72px "微软雅黑" ;}
+.mainCenter  .centerRight .title h2 span{color: #ff6700; margin-left: 10px;}
+.mainCenter  .centerRight button{width: 263px; height:48px; background: #fff;
+border:1px solid #dfdfdf; font-family: "微软雅黑" }
+.mainCenter  .centerRight .currentBtn{border: 1px solid #ff6700;}
+.mainCenter  .centerRight  .btn1{margin-right: 14px; margin-bottom: 14px;}
+.centerRight .p1{margin-top: 24px; height: 22px; line-height: 22px;}
+.centerRight h3{height: 55px; line-height: 55px;font:18px/55px "微软雅黑" ;}
+.centerRight h3 span{font-size: 12px;font-weight: normal; margin-left: 20px;}
+.centerRight button{position: relative;}
+.centerRight button img{position: absolute;left: 60px;}
+.centerRight .p2{font: 14px/33px "微软雅黑";}
+.centerRight .p3{font: 12px/33px "微软雅黑";}
+
+.mainBot ul li{width: 100%;}
+.mainBot ul li img{width: 100%;}
+.mainBot .tuijian{text-align: center;}
+.xiaomizhijia{height:600px; position: relative;}
+.xiaomizhijia .introduce{height:160px;background: #4b4a46;opacity: 0.6;position: absolute;bottom: 0; left: 0;}
+.xiaomizhijia .fontIntroduce{color: #fff;padding-left: 80px; width:914px; }
+.xiaomizhijia .Btn{width:215px; padding-top: 26px;}
+.xiaomizhijia .Btn button{ width:178px; height: 48px;margin-bottom: 10px;
+border: 1px solid #ff6700; color: #ff6700;background: none;}
+.mainBot .img1,.img2{margin:  0 auto;}
+
+
+.fontIntroduce h3{ font:24px/60px "微软雅黑" ;padding-top: 26px;}
+.fontIntroduce p{ font:14px/25px "微软雅黑" ;}
+
+
+
+
+
+
+
+
+
+
+.footer {height:460px; }
+.footer .column{height: 52px;border-bottom:1px solid #e0e0e0;padding-top: 27px;margin-bottom: 40px;}
+.footer .column li{font:16px/25px "微软雅黑"; width: 154px; height: 25px; border-right:1px solid #e0e0e0; float: left;
+    padding-left: 89px;}
+.footer .footerUl li h4{margin-bottom: 23px;font-size: 16px;}
+.footer .footerUl li { width: 160px; float: left;}
+.footer .footerUl li p {font:14px/29px "微软雅黑";}
+.footer .contact{width: 251px; border-left: 1px solid #e0e0e0; height: 112px;text-align: center;margin-bottom: 12px; }
+.footer .contact h4{height: 26px ; font-size: 16px; color: #ff6700;}
+.footer .contact p{font:12px/18px "微软雅黑";}
+.footer .contact span{width: 118px; height: 28px; border: 1px solid #ff6700; display: inline-block; line-height: 28px;
+    margin-top: 17px;}
+.footer .helpCenter{margin-bottom: 59px;}
+.footer .bottomLeft{width: 66px;}
+.footer .bottomCenter{width: 790px; line-height: 18px;}
+.footer .bottomRight{padding-top: 10px;}

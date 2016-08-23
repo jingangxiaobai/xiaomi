@@ -1,0 +1,43 @@
+.top{height: 40px; background:#333333;color: #b0b0b0; }
+.top ul li {float: left; height: 40px;line-height: 40px;}
+.top ul li a{color: #b0b0b0;}
+.top .topLeft{}
+.top .topLeft li{margin-right: 7px;}
+.top .topRight{}
+.top .topRight span{margin-right: 6px; }
+.top .topRight .buyCarItem{width: 80px; background: #424242;padding-left: 40px;}
+.header {padding-top: 20px;height: 80px;}
+.header .logo{margin-right: 30px;}
+.header .logoAd{margin-right: 32px;}
+.header ul li{float: left; margin-right: 20px;font:16px/60px "微软雅黑";}
+.header ul li a{color:#333;}
+.header form .text{width: 243px; height:48px; border: 1px solid #e0e0e0; }
+.header form .button{width:50px; height:50px; border: 1px solid #e0e0e0;border-left: none;background: #fff; }
+.main{height:694px;background: #f5f5f5;}
+.main p{height: 40px; line-height: 40px;}
+.main .contact{height: 554px; background: #fff;}
+.main .contact h2{padding:27px 0 126px 48px; }
+.main .contact .contactOne{width: 601px;height: 273px; border-right:1px solid #e0e0e0; text-align: center;}
+.main .contact .contactTwo{width: 601px;height: 273px; text-align: center;}
+.main .contact img{margin-left: 272px; margin-bottom: 18px;}
+.main .contact .contactOne h3 ,.contactTwo h3{color: #424242; font-size: 28px; margin-bottom: 23px;}
+.main .contact .contactOne p ,.contactTwo p{line-height: 21px; height: 21px;font-size: 14px;}
+.main .contact .contactOne span{margin-top: 24px; width: 160px; height: 40px; background: #ff6700; display: inline-block;
+color: #fff;line-height: 40px;}
+
+.footer {height:460px; }
+.footer .column{height: 52px;border-bottom:1px solid #e0e0e0;padding-top: 27px;margin-bottom: 40px;}
+.footer .column li{font:16px/25px "微软雅黑"; width: 154px; height: 25px; border-right:1px solid #e0e0e0; float: left;
+    padding-left: 89px;}
+.footer .footerUl li h4{margin-bottom: 23px;font-size: 16px;}
+.footer .footerUl li { width: 160px; float: left;}
+.footer .footerUl li p {font:14px/29px "微软雅黑";}
+.footer .contact{width: 251px; border-left: 1px solid #e0e0e0; height: 112px;text-align: center;margin-bottom: 12px; }
+.footer .contact h4{height: 26px ; font-size: 16px; color: #ff6700;}
+.footer .contact p{font:12px/18px "微软雅黑";}
+.footer .contact span{width: 118px; height: 28px; border: 1px solid #ff6700; display: inline-block; line-height: 28px;
+    margin-top: 17px;}
+.footer .helpCenter{margin-bottom: 59px;}
+.footer .bottomLeft{width: 66px;}
+.footer .bottomCenter{width: 790px; line-height: 18px;}
+.footer .bottomRight{padding-top: 10px;}

@@ -1,0 +1,39 @@
+.inner{width: 1226px; margin:  0 auto;}
+.header{height: 100px; border-bottom: 1px solid #ff6700;}
+.logo{margin: 26px 44px 0 0;}
+.header .title h2{margin-top: 37px;}
+.loginBtn {margin-top: 42px;}
+.center {background: #f5f5f5;}
+.centerTop {height: 492px; }
+.centerTopL{width:556px; }
+.centerTopR{width:494px; }
+.centerTopR h2{margin-top: 164px; font-size: 34px;}
+.centerTopR p{height: 50px; line-height: 50px; font-size: 20px;}
+.centerTopR button{width: 172px; height: 50px; line-height: 50px; text-align: center; outline: none;}
+.centerTopR .btn1{background:#ff6700; color: #fff;}
+.centerTopR .btn2{border:1px solid #ff6700; color: #ff6700; background: #fff;}
+.centerBot .title{height: 50px; line-height: 50px; font-size: 18px;}
+.mainTopRainbow{text-align: center;padding-bottom: 116px;}
+.mainTopRainbow h2{font:22px/60px "微软雅黑";}
+.mainTopRainbow ul li p{font-size: 12px;}
+.mainTopRainbow ul li h3{font-size:20px; }
+ .mainTopRainbow2 ul li {width: 234px;height: 300px;float: left;border: none; margin-right:14px;
+    background: #fff; margin-bottom: 14px;}
+.mainTopRainbow2  ul li img{margin: 40px 0 30px 37px; width: 120px; height: 120px;}
+.mainTopRainbow .rainbow{margin-right:-14px;}
+.footer {height:460px; }
+.footer .column{height: 52px;border-bottom:1px solid #e0e0e0;padding-top: 27px;margin-bottom: 40px;}
+.footer .column li{font:16px/25px "微软雅黑"; width: 154px; height: 25px; border-right:1px solid #e0e0e0; float: left;
+    padding-left: 89px;}
+.footer .footerUl li h4{margin-bottom: 23px;font-size: 16px;}
+.footer .footerUl li { width: 160px; float: left;}
+.footer .footerUl li p {font:14px/29px "微软雅黑";}
+.footer .contact{width: 251px; border-left: 1px solid #e0e0e0; height: 112px;text-align: center;margin-bottom: 12px; }
+.footer .contact h4{height: 26px ; font-size: 16px; color: #ff6700;}
+.footer .contact p{font:12px/18px "微软雅黑";}
+.footer .contact span{width: 118px; height: 28px; border: 1px solid #ff6700; display: inline-block; line-height: 28px;
+    margin-top: 17px;}
+.footer .helpCenter{margin-bottom: 59px;}
+.footer .bottomLeft{width: 66px;}
+.footer .bottomCenter{width: 790px; line-height: 18px;}
+.footer .bottomRight{padding-top: 10px;}
